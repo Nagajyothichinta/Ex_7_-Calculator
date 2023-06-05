@@ -315,6 +315,15 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
+
+
+
+
+
+
 <img width="142" alt="image" src="https://github.com/Nagajyothichinta/Ex_7_-Calculator/assets/94191344/e58f6213-5303-45d7-be37-b1d1ac082221">
 
 
